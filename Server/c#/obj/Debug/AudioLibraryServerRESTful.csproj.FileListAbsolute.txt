@@ -1,0 +1,13 @@
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\obj\Debug\AudioLibraryServerRESTful.csproj.AssemblyReference.cache
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\obj\Debug\AudioLibraryServerRESTful.csproj.CoreCompileInputs.cache
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\bin\Debug\chinook.db
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\bin\Debug\AudioLibraryServerRESTful.exe.config
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\bin\Debug\AudioLibraryServerRESTful.exe
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\bin\Debug\AudioLibraryServerRESTful.pdb
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\bin\Debug\System.Data.SQLite.dll
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\bin\Debug\System.Data.SQLite.xml
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\obj\Debug\AudioLibraryServerRESTful.csproj.CopyComplete
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\obj\Debug\AudioLibraryServerRESTful.exe
+C:\Users\Rice Cipriani\Documents\GitHub\rest\Server\c#\obj\Debug\AudioLibraryServerRESTful.pdb
